@@ -1,0 +1,12 @@
+names:
+- plat
+nc: 1
+roboflow:
+  license: Public Domain
+  project: car-plate-detection-sctyn
+  url: https://universe.roboflow.com/faisal-dwiki-n/car-plate-detection-sctyn/dataset/6
+  version: 6
+  workspace: faisal-dwiki-n
+test: ../test/images
+train: Car-Plate-Detection-6/train/images
+val: Car-Plate-Detection-6/valid/images
